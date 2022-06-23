@@ -1,1 +1,1 @@
-Shell Scrip That Writes the absolute path name of the working directory to the terminal
+This directory contains a bash script that prints the absolute path name of the current directory to the terminal.
