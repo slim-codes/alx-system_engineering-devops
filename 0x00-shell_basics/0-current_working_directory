@@ -1,3 +1,2 @@
 #!/bin/bash
 pwd
-# the command above displays the absolute path name of the current working directory.
